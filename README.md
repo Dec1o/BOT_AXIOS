@@ -1,6 +1,6 @@
 # DOCUMENTAÇÃO
 
-O objetivo deste projetoé ser uma soluçãofeita sob medida paragerenciar os chamados dentro do sistema AXIOS ASSYST, logoapós, deve realizar umaligação afim denotificar o profissional responsávelpela solução dos chamados.
+O objetivo deste projeto é ser uma solução feita sob medida para gerenciar os chamados dentro do sistema AXIOS ASSYST, logo após, deve realizar uma ligação a fim de notificar o profissional responsável pela solução dos chamados.
 
 
 
